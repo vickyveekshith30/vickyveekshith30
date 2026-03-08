@@ -2,9 +2,9 @@
 
 ![Typing](https://readme-typing-svg.herokuapp.com/?lines=AI+Engineer;Machine+Learning+Learner;Future+Developer)
 
-🚀 Aspiring AI/ML Engineer  
+🚀 Aspiring AI/ML Engineer @AJIET 
 💻 Learning Python, Java and Data Structures  
-📍 India  
+📍 India
 
 ---
 
