@@ -19,7 +19,7 @@
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=vickyveekshith30&show_icons=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=vickyveekshith30&show_icons=true&theme=tokyonight)
 
 ---
 
