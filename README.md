@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Veekshith
+# 👋 Hi, I'm Veekshith R
 
 ![Typing](https://readme-typing-svg.herokuapp.com/?lines=AI+Engineer;Machine+Learning+Learner;Future+Developer)
 
